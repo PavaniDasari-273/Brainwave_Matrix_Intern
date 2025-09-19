@@ -84,7 +84,7 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 
 ## 🙏 Acknowledgement
 
-Special thanks to **Brainwave Matrix Solutions** for their guidance and support in building this project.
+Special thanks to **Brainwave Matrix Solutions** for giving me this project.
 
 ---
 
