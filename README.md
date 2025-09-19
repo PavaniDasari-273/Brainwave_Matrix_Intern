@@ -69,6 +69,14 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 ---
 
 ## 📸 Screenshots
+**Interface Look**:[!image alt](Screenshot 2025-09-19 221020.png)
+
+Clean and simple UI built with Streamlit.
+
+Users can paste or type any news article into the input box.
+
+One-click button (Check News) to verify authenticity.
+
 
 
 
