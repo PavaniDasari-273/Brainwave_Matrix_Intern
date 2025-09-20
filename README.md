@@ -69,13 +69,15 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 ---
 
 ## 📸 Screenshots
-**Interface Look**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/2395df1a00df425b146a681e9b231ed67594e46f/Screenshot%202025-09-19%20221020.png)
-
+**Interface**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/2395df1a00df425b146a681e9b231ed67594e46f/Screenshot%202025-09-19%20221020.png)
 Clean and simple UI built with Streamlit.
-
 Users can paste or type any news article into the input box.
-
 One-click button (Check News) to verify authenticity.
+
+**TRUE NEWS**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/d362a7c54ae04cf0f7774ffc3c7ca04d716ad251/Screenshot%202025-09-19%20221216.png)
+When a real news article is entered, the system detects it as Real.
+Output is displayed in green for better clarity.
+Helps in building trust in authentic information.
 
 
 
