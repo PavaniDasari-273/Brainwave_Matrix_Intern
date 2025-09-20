@@ -79,6 +79,11 @@ When a real news article is entered, the system detects it as Real.
 Output is displayed in green for better clarity.
 Helps in building trust in authentic information.
 
+**FAKE NEWS**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/1e43daaa59b619774673a4de0eb0ae2fc7c7a329/Screenshot%202025-09-19%20221309.png)
+Fake or manipulated articles are flagged as Fake.
+Output is shown in red to grab attention immediately.
+Helps users avoid misleading or false news.
+
 
 
 
