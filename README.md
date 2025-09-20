@@ -69,7 +69,7 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 ---
 
 ## 📸 Screenshots
-**Interface Look**:![image alt](Screenshot 2025-09-19 221020.png)
+**Interface Look**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/2395df1a00df425b146a681e9b231ed67594e46f/Screenshot%202025-09-19%20221020.png)
 
 Clean and simple UI built with Streamlit.
 
