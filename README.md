@@ -7,8 +7,6 @@ This project aims to **detect whether a news article is Real or Fake** using **M
 
 I also built an **interactive Streamlit Web App** that allows users to enter any news text and instantly check its authenticity.
 
----
-
 ## ⚡ Features
 
 * ✅ Detects if a given news article is **Real** or **Fake**
@@ -16,8 +14,6 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 * ✅ Feature extraction using **TF-IDF Vectorization**
 * ✅ Trained **Logistic Regression model** for classification
 * ✅ Interactive UI built with **Streamlit**
-
----
 
 ## 🛠 Tech Stack
 
@@ -39,9 +35,7 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 ├── requirements.txt       # Required dependencies  
 ├── dataset/               # News dataset (Fake & Real)  
 └── README.md              # Project documentation  
-```
 
----
 
 ## 🚀 How to Run Locally
 
@@ -66,8 +60,6 @@ I also built an **interactive Streamlit Web App** that allows users to enter any
 
 4. Open the link shown in the terminal (default: `http://localhost:8501`)
 
----
-
 ## 📸 Screenshots
 **Interface**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/2395df1a00df425b146a681e9b231ed67594e46f/Screenshot%202025-09-19%20221020.png)
 Clean and simple UI built with Streamlit.
@@ -84,10 +76,10 @@ Fake or manipulated articles are flagged as Fake.
 Output is shown in red to grab attention immediately.
 Helps users avoid misleading or false news.
 
-
-
-
----
+**NO INPUT WARNING**:![image alt](https://github.com/PavaniDasari-273/Brainwave_Matrix_Intern/blob/0b5a54faa2b2672e230a5fd7147a90c5af2eb39e/Screenshot%202025-09-19%20221328.png)
+If no text is entered, the app shows a warning message.
+Ensures users provide valid input before prediction.
+Enhances usability and error handling.
 
 ## 🔮 Future Enhancements
 
@@ -95,13 +87,9 @@ Helps users avoid misleading or false news.
 * Deploy on **Heroku/Streamlit Cloud** for public access
 * Add real-time news scraping & fact-check integration
 
----
-
 ## 🙏 Acknowledgement
 
 Special thanks to **Brainwave Matrix Solutions** for giving me this project.
-
----
 
 ## 📌 Author
 
